@@ -20,15 +20,21 @@
           <li><a href="">Evaluation Copies</a></li>
         </ul>
       </nav>
+    </header>
       <h1>Employee Profile</h1>
-       <h3>Photo</h3>
-          <img src= "photo_rrCDC323 (1).jpg" width= "100px" height="100px" alt= "mdn logo"/>
+      <section>
+        <h3>Photo</h3>
+          <img src= "photo_rrCDC323 (1).jpg" width= "100px" height="100px" alt= "image"/>
           <figcaption> &emsp; Sabhyatha </figcaption>
+      </section>
+      <section>    
           <h3>Personal Data</h3>
           <p>Adress <br>   &emsp; Bikkarnakatte</p>
           <p>City   <br>   &emsp; Managalore</p>
           <p>Region <br>   &emsp; Asia</p>
           <p>Phone  <br>   &emsp; 9972287182</p>
+      </section>
+      <section>    
           <h3>Customers</h3>
           <p>
             <a href="">Janice Daniel</a>
@@ -37,7 +43,7 @@
            <p><a href="">Anish</a>
            <br> Oxford University</p>
            <p><a href="">Home</a> | <a href="">Contacts</a>| <a href="">Locations</a></p>
-     </header>
+      </section>     
      <footer>
         <p>Copyright&copy;2018 CRM Admin</p>
      </footer>
